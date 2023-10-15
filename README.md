@@ -1,7 +1,7 @@
 # Quizy - A Flutter Quiz App with Firebase Integration
 
 
-![IMG_20231015_161107](https://github.com/3MR7OSSAM/Quizy/assets/83048066/1deff3c3-0a72-45b9-8cb9-7eee965cdc68)
+![image2](https://github.com/3MR7OSSAM/Quizy/assets/83048066/a3bffe81-a61d-4d1c-a11c-d85f26e06c0e)
 
 
 Quizy is a versatile quiz application developed using Flutter and Firebase. It offers a seamless experience for both students and teachers. Students can create quizzes, track the number of students who have completed a quiz, and view their scores along with the date of completion. Teachers, on the other hand, can log in, sign up, manage their profiles, oversee the student quizzes, and create and manage quizzes.
