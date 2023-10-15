@@ -80,11 +80,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- Your Name
-- Your Email
+- Amr Hossam
+- Amr70.vip@gmail.com
 
 ## Contact
 
-For any inquiries or support, you can contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, you can contact us at [amr70.vipl@gmail.com](mailto:your-email@example.com).
 
 **Happy quizzing with Quizy!**
